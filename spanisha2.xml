@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="courses.xsl"?>
+<course>
+  <subject>Spanish A2</subject>
+  <tutor> John Doe </tutor>
+  <description> Spanish A2 course </description>
+  <duration> 30 days </duration>
+  
+  <url>spanisha2_detail.php</url>
+  <button>Go to Course </button>
+  <!--<button1> Unenroll </button1>-->
+</course>
